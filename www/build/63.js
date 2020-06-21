@@ -97,7 +97,7 @@ var CoreSplitViewPlaceholderPage = /** @class */ (function () {
     }
     CoreSplitViewPlaceholderPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'core-placeholder',template:/*ion-inline-start:"D:\BKEL\192\HeDieuHanh\Hocphanmorong\moodleapp vietsub\moodleapp\src\components\split-view\placeholder\core-placeholder.html"*/'<ion-header>\n\n    <ion-navbar core-back-button>\n\n        <ion-title>&nbsp;</ion-title>\n\n    </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content>\n\n    <core-empty-box icon="arrow-dropleft" [message]="\'core.emptysplit\' | translate" [flipIconRtl]="true"></core-empty-box>\n\n</ion-content>\n\n'/*ion-inline-end:"D:\BKEL\192\HeDieuHanh\Hocphanmorong\moodleapp vietsub\moodleapp\src\components\split-view\placeholder\core-placeholder.html"*/,
+            selector: 'core-placeholder',template:/*ion-inline-start:"D:\BKEL\192\HeDieuHanh\Hocphanmorong\moodleappvietsub\moodleapp\src\components\split-view\placeholder\core-placeholder.html"*/'<ion-header>\n\n    <ion-navbar core-back-button>\n\n        <ion-title>&nbsp;</ion-title>\n\n    </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content>\n\n    <core-empty-box icon="arrow-dropleft" [message]="\'core.emptysplit\' | translate" [flipIconRtl]="true"></core-empty-box>\n\n</ion-content>\n\n'/*ion-inline-end:"D:\BKEL\192\HeDieuHanh\Hocphanmorong\moodleappvietsub\moodleapp\src\components\split-view\placeholder\core-placeholder.html"*/,
         }),
         __metadata("design:paramtypes", [])
     ], CoreSplitViewPlaceholderPage);

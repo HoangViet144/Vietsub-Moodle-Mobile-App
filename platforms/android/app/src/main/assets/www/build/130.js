@@ -1,6 +1,6 @@
 webpackJsonp([130],{
 
-/***/ 1973:
+/***/ 1972:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11,7 +11,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__directives_directives_module__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(1007);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__report__ = __webpack_require__(2125);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__report__ = __webpack_require__(2124);
 // (C) Copyright 2015 Moodle Pty Ltd.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -60,7 +60,7 @@ var AddonModFolderIndexPageModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 2125:
+/***/ 2124:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -101,7 +101,7 @@ var AddonCourseCompletionReportPage = /** @class */ (function () {
     }
     AddonCourseCompletionReportPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-addon-course-completion-report',template:/*ion-inline-start:"D:\BKEL\192\HeDieuHanh\Hocphanmorong\moodleapp\moodleapp\src\addon\coursecompletion\pages\report\report.html"*/'<ion-header>\n\n    <ion-navbar core-back-button>\n\n        <ion-title>{{ \'addon.coursecompletion.coursecompletion\' | translate }}</ion-title>\n\n    </ion-navbar>\n\n</ion-header>\n\n<addon-course-completion-report class="core-avoid-header" [courseId]="courseId" [userId]="userId"></addon-course-completion-report>\n\n'/*ion-inline-end:"D:\BKEL\192\HeDieuHanh\Hocphanmorong\moodleapp\moodleapp\src\addon\coursecompletion\pages\report\report.html"*/,
+            selector: 'page-addon-course-completion-report',template:/*ion-inline-start:"D:\BKEL\192\HeDieuHanh\Hocphanmorong\moodleappvietsub\moodleapp\src\addon\coursecompletion\pages\report\report.html"*/'<ion-header>\n\n    <ion-navbar core-back-button>\n\n        <ion-title>{{ \'addon.coursecompletion.coursecompletion\' | translate }}</ion-title>\n\n    </ion-navbar>\n\n</ion-header>\n\n<addon-course-completion-report class="core-avoid-header" [courseId]="courseId" [userId]="userId"></addon-course-completion-report>\n\n'/*ion-inline-end:"D:\BKEL\192\HeDieuHanh\Hocphanmorong\moodleappvietsub\moodleapp\src\addon\coursecompletion\pages\report\report.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["t" /* NavParams */]])
     ], AddonCourseCompletionReportPage);
